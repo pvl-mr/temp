@@ -168,35 +168,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FormGamePlayer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormGamePlayer.Designer.cs">
+      <DependentUpon>FormGamePlayer.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormEntities1.cs">
+    <Compile Include="FormGames.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormEntities1.Designer.cs">
-      <DependentUpon>FormEntities1.cs</DependentUpon>
+    <Compile Include="FormGames.Designer.cs">
+      <DependentUpon>FormGames.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormEntities2.cs">
+    <Compile Include="FormPlayers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormEntities2.Designer.cs">
-      <DependentUpon>FormEntities2.cs</DependentUpon>
+    <Compile Include="FormPlayers.Designer.cs">
+      <DependentUpon>FormPlayers.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormEntity1.cs">
+    <Compile Include="FormGame.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormEntity1.Designer.cs">
-      <DependentUpon>FormEntity1.cs</DependentUpon>
+    <Compile Include="FormGame.Designer.cs">
+      <DependentUpon>FormGame.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormEntity2.cs">
+    <Compile Include="FormPlayer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormEntity2.Designer.cs">
-      <DependentUpon>FormEntity2.cs</DependentUpon>
+    <Compile Include="FormPlayer.Designer.cs">
+      <DependentUpon>FormPlayer.cs</DependentUpon>
     </Compile>
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
@@ -206,17 +206,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormEntities1.resx">
-      <DependentUpon>FormEntities1.cs</DependentUpon>
+    <EmbeddedResource Include="FormGamePlayer.resx">
+      <DependentUpon>FormGamePlayer.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormEntities2.resx">
-      <DependentUpon>FormEntities2.cs</DependentUpon>
+    <EmbeddedResource Include="FormGames.resx">
+      <DependentUpon>FormGames.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormEntity1.resx">
-      <DependentUpon>FormEntity1.cs</DependentUpon>
+    <EmbeddedResource Include="FormPlayers.resx">
+      <DependentUpon>FormPlayers.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormEntity2.resx">
-      <DependentUpon>FormEntity2.cs</DependentUpon>
+    <EmbeddedResource Include="FormGame.resx">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlayer.resx">
+      <DependentUpon>FormPlayer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
