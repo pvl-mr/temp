@@ -25,7 +25,7 @@ namespace Implement.Implements
                     Type = rec.Type,
                     Nickname = rec.Nickname,
                     DateDeath = rec.DateDeath,
-                    GameId = rec.GameId,
+                    GameId = (int)rec.GameId,
                     GameName = rec.Game.GameName
                 })
                 .ToList();
@@ -51,7 +51,7 @@ namespace Implement.Implements
                     Type = rec.Type,
                     Nickname = rec.Nickname,
                     DateDeath = rec.DateDeath,
-                    GameId = rec.GameId,
+                    GameId = (int)rec.GameId,
                     GameName = rec.Game.GameName
                 })
                 .ToList();
@@ -77,7 +77,7 @@ namespace Implement.Implements
                     Type = player.Type,
                     Nickname = player.Nickname,
                     DateDeath = player.DateDeath,
-                    GameId = player.GameId,
+                    GameId = (int)player.GameId,
                     GameName = player.Game.GameName
                 } :
                 null;
@@ -130,7 +130,7 @@ namespace Implement.Implements
             player.Nickname = model.Nickname;
             player.DateDeath = model.DateDeath;
             player.Type = model.Type;
-            player.GameId = model.GameId.Value;
+       //     player.GameId = model.GameId.Value;
             return player;
         }
     }
