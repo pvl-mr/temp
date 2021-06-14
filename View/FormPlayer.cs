@@ -44,7 +44,8 @@ namespace View
                     Score = Convert.ToInt32(textBoxScore.Text),
                     Type = (BusinessLogic.Enums.PlayerType)comboBoxType.SelectedValue,
                     DateDeath = dateTimePicker.Value,
-                });
+                    GameId = comboBoxGame.SelectedIndex+1
+                });;
                 MessageBox.Show("Сохранение прошло успешно", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 DialogResult = DialogResult.OK;
                 Close();
@@ -64,14 +65,14 @@ namespace View
         private void FormPlayer_Load(object sender, EventArgs e)
         {
             comboBoxType.DataSource = Enum.GetValues(typeof(PlayerType));
-            /*var listClients = gameLogic.Read(null);
+            var listClients = gameLogic.Read(null);
             foreach (var client in listClients)
             {
                 comboBoxGame.DataSource = listClients;
                 comboBoxGame.DisplayMember = "GameName";
                 comboBoxGame.ValueMember = "Id";
                 comboBoxGame.SelectedItem = null;
-            }*/
+            }
             if (id.HasValue)
             {
                 try

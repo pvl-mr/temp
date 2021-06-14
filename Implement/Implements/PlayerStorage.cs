@@ -130,7 +130,7 @@ namespace Implement.Implements
             player.Nickname = model.Nickname;
             player.DateDeath = model.DateDeath;
             player.Type = model.Type;
-       //     player.GameId = model.GameId.Value;
+            player.GameId = model.GameId.Value;
             return player;
         }
     }

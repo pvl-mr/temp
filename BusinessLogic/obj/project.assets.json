@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79962\\source\\repos\\Ekz4\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\79962\\Desktop\\temp\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\79962\\source\\repos\\Ekz4\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\79962\\Desktop\\temp\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\79962\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79962\\source\\repos\\Ekz4\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\79962\\Desktop\\temp\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79962\\AppData\\Roaming\\NuGet\\NuGet.Config",

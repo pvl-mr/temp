@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79962\\source\\repos\\Ekz4\\FileImplement\\FileImplement.csproj",
+      "projectUniqueName": "C:\\Users\\79962\\Desktop\\temp\\FileImplement\\FileImplement.csproj",
       "projectName": "FileImplement",
-      "projectPath": "C:\\Users\\79962\\source\\repos\\Ekz4\\FileImplement\\FileImplement.csproj",
+      "projectPath": "C:\\Users\\79962\\Desktop\\temp\\FileImplement\\FileImplement.csproj",
       "packagesPath": "C:\\Users\\79962\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79962\\source\\repos\\Ekz4\\FileImplement\\obj\\",
+      "outputPath": "C:\\Users\\79962\\Desktop\\temp\\FileImplement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79962\\AppData\\Roaming\\NuGet\\NuGet.Config",
