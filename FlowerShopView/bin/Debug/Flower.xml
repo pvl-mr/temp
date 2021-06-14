@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Flowers>
+  <Flower Id="1">
+    <FlowerName>Изделие 1</FlowerName>
+    <Price>1000</Price>
+    <FlowerComponents>
+      <FlowerComponent>
+        <Key>1</Key>
+        <Value>22</Value>
+      </FlowerComponent>
+    </FlowerComponents>
+  </Flower>
+</Flowers>

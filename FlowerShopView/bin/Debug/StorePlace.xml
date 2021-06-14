@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StorePlaces>
+  <StorePlace Id="1">
+    <StorePlaceName>склад 1</StorePlaceName>
+    <AdministratorName>Админ 1</AdministratorName>
+    <DateCreate>09.03.2021 23:24:55</DateCreate>
+    <StorePlaceComponents>
+      <StorePlaceComponent>
+        <Key>1</Key>
+        <Value>736</Value>
+      </StorePlaceComponent>
+    </StorePlaceComponents>
+  </StorePlace>
+  <StorePlace Id="2">
+    <StorePlaceName>Склад 2</StorePlaceName>
+    <AdministratorName>Админ 2</AdministratorName>
+    <DateCreate>09.03.2021 23:25:09</DateCreate>
+    <StorePlaceComponents />
+  </StorePlace>
+</StorePlaces>

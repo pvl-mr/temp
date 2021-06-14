@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEiSblulncvlhaySzY8yp1jbch4Q6MdbihbSyHDn3FokKzIgCMDhp8rkIanjDdlHRnIe7F/1NEy8SrSL4ZjfZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Mariya\\универ\\2 year\\TP\\2 семестр\\PIbd-22-Pavlova-M.V.-Flower-Shop\\FlowerShop\\FlowerShopFileImplement\\FlowerShopFileImplement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79962\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\mailkit\\2.11.1\\mailkit.2.11.1.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\mimekit\\2.11.0\\mimekit.2.11.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\pdfsharp-migradoc\\1.50.5147\\pdfsharp-migradoc.1.50.5147.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\79962\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"PDFsharp-MigraDoc 1.50.5147\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "PDFsharp-MigraDoc",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

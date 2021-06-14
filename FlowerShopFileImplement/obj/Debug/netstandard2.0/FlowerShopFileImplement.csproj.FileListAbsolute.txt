@@ -1,0 +1,12 @@
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\bin\Debug\netstandard2.0\FlowerShopFileImplement.deps.json
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\bin\Debug\netstandard2.0\FlowerShopFileImplement.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\bin\Debug\netstandard2.0\FlowerShopFileImplement.pdb
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.pdb
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.csprojAssemblyReference.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.AssemblyInfoInputs.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.AssemblyInfo.cs
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.csproj.CoreCompileInputs.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.csproj.CopyComplete
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopFileImplement\obj\Debug\netstandard2.0\FlowerShopFileImplement.pdb

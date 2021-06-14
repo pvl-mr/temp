@@ -1,0 +1,9 @@
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.deps.json
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.pdb
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\obj\Debug\netstandard2.0\FlowerShopBusinessLogic.AssemblyInfoInputs.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\obj\Debug\netstandard2.0\FlowerShopBusinessLogic.AssemblyInfo.cs
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\obj\Debug\netstandard2.0\FlowerShopBusinessLogic.csproj.CoreCompileInputs.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\obj\Debug\netstandard2.0\FlowerShopBusinessLogic.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\obj\Debug\netstandard2.0\FlowerShopBusinessLogic.pdb
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopBusinessLogic\obj\Debug\netstandard2.0\FlowerShopBusinessLogic.csprojAssemblyReference.cache

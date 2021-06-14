@@ -1,0 +1,12 @@
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\bin\Debug\netstandard2.0\FlowerShopDatabaseImplement.deps.json
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\bin\Debug\netstandard2.0\FlowerShopDatabaseImplement.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\bin\Debug\netstandard2.0\FlowerShopDatabaseImplement.pdb
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\bin\Debug\netstandard2.0\FlowerShopBusinessLogic.pdb
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.csprojAssemblyReference.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.AssemblyInfoInputs.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.AssemblyInfo.cs
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.csproj.CoreCompileInputs.cache
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.csproj.CopyComplete
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.dll
+D:\Mariya\универ\2 year\TP\2 семестр\PIbd-22-Pavlova-M.V.-Flower-Shop\FlowerShop\FlowerShopDatabaseImplement\obj\Debug\netstandard2.0\FlowerShopDatabaseImplement.pdb

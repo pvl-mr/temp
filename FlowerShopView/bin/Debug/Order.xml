@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order Id="1">
+    <FlowerId>1</FlowerId>
+    <Count>12</Count>
+    <Sum>12000</Sum>
+    <Status>Выполняется</Status>
+    <DateCreate>2021-03-09T23:26:28.1625881+04:00</DateCreate>
+    <DateImplement>2021-03-09T23:27:17.6734622+04:00</DateImplement>
+  </Order>
+</Orders>
