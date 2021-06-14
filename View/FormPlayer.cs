@@ -44,7 +44,7 @@ namespace View
                     Score = Convert.ToInt32(textBoxScore.Text),
                     Type = (BusinessLogic.Enums.PlayerType)comboBoxType.SelectedValue,
                     DateDeath = dateTimePicker.Value,
-                    GameId = comboBoxGame.SelectedIndex+1
+                    GameId = comboBoxGame.SelectedItem.
                 });;
                 MessageBox.Show("Сохранение прошло успешно", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 DialogResult = DialogResult.OK;
